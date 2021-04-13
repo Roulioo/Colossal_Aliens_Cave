@@ -13,6 +13,7 @@ The letters A1 and A2 correspond to the aliens and D at the exit.
 1. Go to current folder of project in terminal
 2. Run "node main.js"
 3. Program will be launched
+4. Enjoy !
 
 # Information
 
