@@ -8,10 +8,6 @@ The letters A1 and A2 correspond to the aliens and D at the exit.
     ["_","A1","D"],
     ["A2","_","_"],
 
-# Requirements
-
-1. Node
-
 # How to test
 
 1. Go to current folder of project in terminal
