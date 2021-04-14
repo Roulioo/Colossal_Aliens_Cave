@@ -5,8 +5,13 @@ Labyrinth games in the terminal. The goal is to move in a labyrinth not knowing 
 The different commands are explained when the game is initialized. Here is an example of a labyrinth used.
 The letters A1 and A2 correspond to the aliens and D at the exit.
 
-    ["_","A1","D"],
-    ["A2","_","_"],
+    ["_","A1","D"]
+    ["A2","_","_"]
+
+# Technologies
+
+- Javascript
+- Node.Js
 
 # How to test
 
